@@ -1,3 +1,20 @@
+<div align="center">
+
+[![PyPI Version](https://img.shields.io/pypi/v/durable-python?logo=pypi&color=blue)](https://pypi.org/project/durable-python/)
+[![Python Version](https://img.shields.io/badge/Python-3.12-blue?logo=python)](https://www.python.org/)
+[![GitHub License](https://img.shields.io/github/license/playbooks-ai/playbooks?logo=github)](https://github.com/playbooks-ai/durable-python/blob/main/LICENSE)
+
+<!-- [![Documentation](https://img.shields.io/badge/Docs-GitHub-blue?logo=github)](https://playbooks-ai.github.io/playbooks-docs/) -->
+<!-- [![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/playbooks-ai/playbooks) -->
+[![Test](https://github.com/playbooks-ai/durable-python/actions/workflows/test.yml/badge.svg)](https://github.com/playbooks-ai/durable-python/actions/workflows/test.yml)
+[![Lint](https://github.com/playbooks-ai/durable-python/actions/workflows/lint.yml/badge.svg)](https://github.com/playbooks-ai/durable-python/actions/workflows/lint.yml)
+<!-- [![GitHub issues](https://img.shields.io/github/issues/playbooks-ai/playbooks)](https://github.com/playbooks-ai/durable-python/issues) -->
+<!-- [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-green.svg)](https://github.com/playbooks-ai/durable-python/blob/main/CONTRIBUTING.md) -->
+<!-- [![Contributors](https://img.shields.io/github/contributors/playbooks-ai/playbooks)](https://github.com/playbooks-ai/durable-python/graphs/contributors) -->
+
+<!-- [![Homepage](https://img.shields.io/badge/Homepage-runplaybooks.ai-red?logo=google-chrome)](https://runplaybooks.ai/) -->
+</div>
+
 # durable-python
 
 Make Python async functions durable and resumable with a minimal, pluggable runtime.
