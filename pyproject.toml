@@ -1,6 +1,6 @@
 [project]
 name = "durable-python"
-version = "0.1.0"
+version = "0.1.1"
 description = "Make python code durable"
 authors = [
     {name = "Amol Kelkar",email = "kelkar.amol@gmail.com"}
