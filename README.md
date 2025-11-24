@@ -4,6 +4,8 @@ Make Python async functions durable and resumable with a minimal, pluggable runt
 
 ## Overview
 
+![durable-python](./assets/durable-python-overview.jpeg)
+
 This package treats durability as a core runtime concern. Async functions are transformed into a sequence of `CodeBlock`s that can be checkpointed, paused, and resumed through a `DurableRuntime`. Everything is open and pluggable: orchestration backends implement a small interface, and persistence is provided through `StateStore` implementations.
 
 Key primitives:
